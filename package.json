@@ -1,7 +1,8 @@
 {
-  "name": "integrated-system",
+  "name": "integrated-system-backend",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Backend for Integrated System",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
